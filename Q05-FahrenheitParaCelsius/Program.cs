@@ -16,6 +16,7 @@ namespace Q05_FahrenheitParaCelsius {
             Console.WriteLine("\n" + new string('-', Console.WindowWidth));
             Console.WriteLine($"Valor convertido para Celsius: {celsius}");
             Console.WriteLine(new string('-', Console.WindowWidth));
+            Console.ReadKey();
         }
     }
 }

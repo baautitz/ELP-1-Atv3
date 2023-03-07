@@ -20,6 +20,7 @@ namespace Q04_ValorDeW {
             Console.WriteLine("\n" + new string('-', Console.WindowWidth));
             Console.WriteLine($"Valor de W calculado: {w}");
             Console.WriteLine(new string('-', Console.WindowWidth));
+            Console.ReadKey();
         }
     }
 }

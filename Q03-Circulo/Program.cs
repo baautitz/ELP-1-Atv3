@@ -21,6 +21,7 @@ namespace Q03_Circulo {
             Console.WriteLine($"Valor de circunferência calculado: {circunf:F2}");
             Console.WriteLine($"Valor de diâmetro calculado: {diam}");
             Console.WriteLine(new string('-', Console.WindowWidth));
+            Console.ReadKey();
         }
     }
 }

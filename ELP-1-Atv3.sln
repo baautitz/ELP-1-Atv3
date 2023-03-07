@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q04-ValorDeW", "Q04-ValorDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q05-FahrenheitParaCelsius", "Q05-FahrenheitParaCelsius\Q05-FahrenheitParaCelsius.csproj", "{4A41FA60-38F0-4E2D-879A-CA349B1A15FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q10-SalarioLiquido", "Q10-SalarioLiquido\Q10-SalarioLiquido.csproj", "{A6F8F135-6EE9-410C-8CFE-135FC8606647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{4A41FA60-38F0-4E2D-879A-CA349B1A15FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A41FA60-38F0-4E2D-879A-CA349B1A15FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A41FA60-38F0-4E2D-879A-CA349B1A15FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F8F135-6EE9-410C-8CFE-135FC8606647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F8F135-6EE9-410C-8CFE-135FC8606647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F8F135-6EE9-410C-8CFE-135FC8606647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F8F135-6EE9-410C-8CFE-135FC8606647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
