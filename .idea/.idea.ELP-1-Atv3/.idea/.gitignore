@@ -1,6 +1,6 @@
 ﻿# Default ignored files
-.idea/
-.git/
+/.idea/
+/.git/
 /shelf/
 /workspace.xml
 # Rider ignored files
