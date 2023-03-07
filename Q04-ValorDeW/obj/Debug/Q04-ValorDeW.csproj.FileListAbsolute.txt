@@ -1,0 +1,7 @@
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\bin\Debug\Q04_ValorDeW.exe
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\bin\Debug\Q04_ValorDeW.pdb
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\obj\Debug\Q04-ValorDeW.csproj.AssemblyReference.cache
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\obj\Debug\Q04-ValorDeW.csproj.SuggestedBindingRedirects.cache
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\obj\Debug\Q04-ValorDeW.csproj.CoreCompileInputs.cache
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\obj\Debug\Q04_ValorDeW.exe
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q04-ValorDeW\obj\Debug\Q04_ValorDeW.pdb

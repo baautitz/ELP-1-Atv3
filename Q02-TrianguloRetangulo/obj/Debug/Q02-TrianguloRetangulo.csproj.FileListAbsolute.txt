@@ -1,0 +1,7 @@
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\bin\Debug\Q02_TrianguloRetangulo.exe
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\bin\Debug\Q02_TrianguloRetangulo.pdb
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\obj\Debug\Q02-TrianguloRetangulo.csproj.AssemblyReference.cache
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\obj\Debug\Q02-TrianguloRetangulo.csproj.SuggestedBindingRedirects.cache
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\obj\Debug\Q02-TrianguloRetangulo.csproj.CoreCompileInputs.cache
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\obj\Debug\Q02_TrianguloRetangulo.exe
+D:\Users\vinic\Documents\Projetos VS\ELP-1-Atv3\Q02-TrianguloRetangulo\obj\Debug\Q02_TrianguloRetangulo.pdb
