@@ -14,7 +14,7 @@ namespace Q05_FahrenheitParaCelsius {
 
             double celsius = 5 / 9.0 * (fahrenheit - 32);
             Console.WriteLine("\n" + new string('-', Console.WindowWidth));
-            Console.WriteLine($"Novo valor convertido para Celsius: {celsius}");
+            Console.WriteLine($"Valor convertido para Celsius: {celsius}");
             Console.WriteLine(new string('-', Console.WindowWidth));
         }
     }
