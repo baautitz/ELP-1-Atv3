@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Media;
 
 namespace Q10_SalarioLiquido {
     internal class Program {
@@ -29,6 +28,7 @@ namespace Q10_SalarioLiquido {
             Console.WriteLine(new string('-', Console.WindowWidth));
             Console.WriteLine($"Salário Líquido: {salLiquido}");
             Console.WriteLine(new string('-', Console.WindowWidth));
+            Console.WriteLine("Bautitz é lindo!");
             Console.ReadKey();
         }
     }
